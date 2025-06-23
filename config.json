@@ -1,5 +1,6 @@
 {
-  "moderation": true,
-  "onboard_url": "https://blu-zone.ru/onboard",
-  "main_url": "https://blu-zone.ru/rates"
+  "moderation": false,
+  "onboard_url": "https://blu-zone.ru/onboard2",
+  "main_url": "https://blu-zone.ru/home2"
 }
+
